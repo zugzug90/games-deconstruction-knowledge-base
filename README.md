@@ -12,6 +12,6 @@
 
 # Список деконструкций
 
-1. [Деконструкция жанра Hidden Object Game (HOG)](docs/hog/hog.md#tith)
+1. [Деконструкция жанра Hidden Object Game (HOG)](docs/hog/hog.md)
 2. ...
 3. ...
