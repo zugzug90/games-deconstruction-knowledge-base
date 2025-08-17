@@ -183,7 +183,7 @@ GIF-анимации мисскликов:
 
 **Примеры:**
 
-> ** ⚠️⚠️⚠️ (только для ознакомления, не используйте в коммерческих проектах или своих играх!!!) ⚠️⚠️⚠️ **
+>  ⚠️⚠️⚠️ **(только для ознакомления, не используйте в коммерческих проектах или своих играх!!!)** ⚠️⚠️⚠️ 
 
 1. [Hidden Objects Games](https://drive.google.com/file/d/1xn_HDnK-x3REIRyVPTZ11NpxAXCx1x-5/view?usp=sharing)
 2. [Hidden Objects - The Journey](https://drive.google.com/file/d/1p-MBfKsjd4SmcywULm2WQUx5JUPIJcZM/view?usp=sharing)
